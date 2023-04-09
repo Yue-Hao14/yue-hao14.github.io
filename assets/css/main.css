@@ -861,7 +861,7 @@ body.landing.is-preload:after {
 }
 
 .box>.row>.col-4 {
-	width: 20%;
+	width: 25%;
 }
 
 .row>.off-4 {
@@ -2583,7 +2583,7 @@ input[type="radio"]+label:before {
 }
 
 .icon.major {
-	background: #272833;
+	background: #6d6d75;
 	border-radius: 100%;
 	cursor: default;
 	display: inline-block;

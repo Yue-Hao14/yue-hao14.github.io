@@ -35,3 +35,8 @@ body.landing #header {
 .divvyup-gif >img, .arrow-gif > img {
   width: 75rem;
 }
+
+.icon img {
+  padding-top: 20px;
+  width: 60%;
+}
