@@ -22,16 +22,16 @@ body.landing #header {
   position: sticky;
 }
 
-#divvyup {
+#divvyup, #arrow-investment {
   display: flex;
   flex-direction: row;
 
 }
-.divvyup-gif {
+.divvyup-gif, .arrow-gif {
   width: 100%;
   height: 100%;
 }
 
-.divvyup-gif >img {
+.divvyup-gif >img, .arrow-gif > img {
   width: 75rem;
 }
