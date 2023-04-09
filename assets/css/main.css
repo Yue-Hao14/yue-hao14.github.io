@@ -3178,7 +3178,7 @@ input[type="button"]:disabled,
 }
 
 .spotlight:before {
-	background-image: url("images/overlay.png");
+	/* background-image: url("images/overlay.png"); */
 	content: '';
 	display: block;
 	height: 100%;
@@ -3573,9 +3573,9 @@ body.landing #page-wrapper {
 }
 
 body.landing #header {
-	background: transparent;
+	background-color: #272833;
 	box-shadow: none;
-	position: absolute;
+	position: sticky; /* make top navbar also show on screen */
 }
 
 /* Banner */
